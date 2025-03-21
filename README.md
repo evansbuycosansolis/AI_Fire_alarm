@@ -121,7 +121,3 @@ This project is open-source and free to use for research and development purpose
 For inquiries, feel free to reach out:  
 📧 **Email:** evansbsansolis@gmail.com  
  
-
----
-
-Would you like a **PDF version** for documentation? 🚀
